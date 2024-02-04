@@ -25,7 +25,7 @@ body {
   
   .image-container {
     width: 100%;
-    max-width: 800%; /* Adjust as needed */
+    max-width: 800%; 
     margin-bottom: 20px;
   }
   
@@ -39,11 +39,11 @@ body {
   }
   
   h2 {
-    color: #ff6600; /* Adjust to your preferred color */
+    color: #ff6600;
   }
   
   p {
-    max-width: 600px; /* Adjust as needed */
+    max-width: 600px; 
     margin: 0 auto;
   }
 
@@ -186,7 +186,7 @@ a {
   }
   
   .image-container {
-    width: 45%; /* Adjust as needed */
+    width: 45%; 
     position: relative;
   }
   
@@ -218,7 +218,7 @@ a {
   .learn-more-btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #ff6600; /* Adjust to your preferred color */
+    background-color: #ff6600; 
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
