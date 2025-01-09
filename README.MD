@@ -21,7 +21,7 @@ This project is a simple HTML and CSS clone of the McDonald's website homepage. 
 
 ## Screenshots
 ![Screenshot 1](./postspark_export_2025-01-09_20-17-22.png)
-![Screenshot 2](./image2.jpeg)
+![Screenshot 2](./postspark_export_2025-01-09_20-19-36.png)
 ![Screenshot 3](./image6.jpeg)
 
 ## Installation
