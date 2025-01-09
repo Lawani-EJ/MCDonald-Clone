@@ -28,5 +28,6 @@ This project is a simple HTML and CSS clone of the McDonald's website homepage. 
 To run this project locally, follow these steps:
 1. Clone the repository:
 
-   ```bash
+```bash
 <https://github.com/Lawani-EJ/MCDonald-Web-Application.git>
+```
